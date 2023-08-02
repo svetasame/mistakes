@@ -55,7 +55,7 @@ public class Main {
 
 
         try {
-            int sum = arrayIn(array3);
+            int sum = arrayIn(array1);
             System.out.println(sum);
         } catch (NumberFormatException e) {
             System.out.println(e.getMessage());
